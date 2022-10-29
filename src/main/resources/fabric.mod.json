@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "noob",
+  "version": "1.0.0",
+  "name": "The Game of Noobs",
+  "authors": [
+    "Kalin, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": "https://github.com/ClothCreators/Fabric-Generator-MCreator"
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.itch.awesomekalin.noob.NoobMod"
+    ],
+    "client": [
+      "io.itch.awesomekalin.noob.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*"
+  }
+}
