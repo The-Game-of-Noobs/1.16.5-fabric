@@ -5,15 +5,6 @@
   },
   "mod_elements": [
     {
-      "name": "NoobChest",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "path": "~/blocks/noob_chest"
-    },
-    {
       "name": "NoobChestGUI",
       "type": "gui",
       "sortid": 2,
@@ -636,6 +627,16 @@
       "ids": {},
       "registry_name": "the_noob",
       "path": "~/entities"
+    },
+    {
+      "name": "NoobChest",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "noob_chest",
+      "path": "~/blocks/noob_chest"
     }
   ],
   "variable_elements": [
@@ -690,6 +691,7 @@
       "block.noob.noob_chest": "Noob Chest",
       "item.noob.noob_dim": "Noob Igniter",
       "item.noob.mud_axe": "Mud Axe",
+      "itemGroup.noob.noob_tab": "The Game of Noobs",
       "item.noob.mud_sword": "Mud Sword",
       "entity.noob.the_noob": "The Noob",
       "tile.noob_block.name": "Block of Noob",
@@ -782,10 +784,11 @@
   "workspaceSettings": {
     "modid": "noob",
     "modName": "The Game of Noobs",
-    "version": "1.0.0",
-    "author": "Kalin, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "1.3.0",
+    "description": "The mod for noobs. DO NOT USE IF YOU ARE A PRO",
+    "author": "AwesomeKalin55, AwesomeFootball 123",
+    "websiteURL": "https://github.com/The-Game-of-Noobs/1.16.5-fabric",
+    "license": "GNU General Public License version 3 (GPLv3)",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -793,6 +796,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "fabric-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about. Noob skin from https://www.minecraftskins.com/skin/20735075/noob/",
     "modElementsPackage": "io.itch.awesomekalin.noob",
     "lockBaseModFiles": false
   },

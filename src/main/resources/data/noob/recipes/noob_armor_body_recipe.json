@@ -1,0 +1,39 @@
+{
+  "group": "noob",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "noob:noob_dust"
+    },
+    "2": {
+      "item": "noob:noob_dust"
+    },
+    "3": {
+      "item": "noob:noob_dust"
+    },
+    "4": {
+      "item": "noob:noob_dust"
+    },
+    "5": {
+      "item": "noob:noob_dust"
+    },
+    "6": {
+      "item": "noob:noob_dust"
+    },
+    "7": {
+      "item": "noob:noob_dust"
+    },
+    "8": {
+      "item": "noob:noob_dust"
+    }
+  },
+  "result": {
+    "item": "noob:noob_armor_chestplate",
+    "count": 1
+  }
+}

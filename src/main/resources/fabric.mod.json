@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "id": "noob",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "name": "The Game of Noobs",
+  "description": "The mod for noobs. DO NOT USE IF YOU ARE A PRO",
   "authors": [
-    "Kalin, MCreator"
+    "AwesomeKalin55, AwesomeFootball 123"
   ],
   "contact": {
-    "homepage": "https://mcreator.net",
+    "homepage": "https://github.com/The-Game-of-Noobs/1.16.5-fabric",
     "sources": "https://github.com/ClothCreators/Fabric-Generator-MCreator"
   },
-  "license": "Academic Free License v3.0",
+  "license": "GNU General Public License version 3 (GPLv3)",
   "environment": "*",
   "entrypoints": {
     "main": [

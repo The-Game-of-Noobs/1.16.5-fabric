@@ -1,0 +1,10 @@
+{
+  "group": "noob",
+  "type": "minecraft:smelting",
+  "experience": 0.21,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "noob:noob_ore"
+  },
+  "result": "noob:noob_dust"
+}

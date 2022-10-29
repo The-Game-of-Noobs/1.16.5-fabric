@@ -1,0 +1,24 @@
+{
+  "group": "noob",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "minecraft:dirt"
+    },
+    "5": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "noob:mud_sword",
+    "count": 1
+  }
+}

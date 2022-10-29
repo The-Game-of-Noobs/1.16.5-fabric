@@ -1,0 +1,20 @@
+{
+  "group": "noob",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "noob:mud_shovel_top"
+    },
+    "1": {
+      "item": "noob:mud_shovel_bottom"
+    }
+  },
+  "result": {
+    "item": "noob:mud_shovel",
+    "count": 1
+  }
+}

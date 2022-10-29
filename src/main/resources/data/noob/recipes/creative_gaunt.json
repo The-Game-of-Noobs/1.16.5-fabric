@@ -1,0 +1,42 @@
+{
+  "group": "noob",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "noob:saliva"
+    },
+    "1": {
+      "item": "noob:saliva"
+    },
+    "2": {
+      "item": "noob:saliva"
+    },
+    "3": {
+      "item": "noob:saliva"
+    },
+    "4": {
+      "item": "minecraft:blaze_powder"
+    },
+    "5": {
+      "item": "noob:saliva"
+    },
+    "6": {
+      "item": "noob:saliva"
+    },
+    "7": {
+      "item": "noob:saliva"
+    },
+    "8": {
+      "item": "noob:saliva"
+    }
+  },
+  "result": {
+    "item": "noob:creative_gauntlet",
+    "count": 1
+  }
+}

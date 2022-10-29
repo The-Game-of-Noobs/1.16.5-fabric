@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "dirtarmour_head",
+    "enableBody": true,
+    "textureBody": "dirtarmour_body",
+    "enableLeggings": true,
+    "textureLeggings": "dirtarmour_leggings",
+    "enableBoots": true,
+    "textureBoots": "dirtarmour_boots",
+    "creativeTab": {
+      "value": "CUSTOM:NoobTab"
+    },
+    "armorTextureFile": "dirtarmour_",
+    "helmetName": "DirtArmour Helmet",
+    "bodyName": "DirtArmour Chestplate",
+    "leggingsName": "DirtArmour Leggings",
+    "bootsName": "DirtArmour Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 2,
+    "damageValueHelmet": 0,
+    "damageValueBody": 1,
+    "damageValueLeggings": 1,
+    "damageValueBoots": 0,
+    "enchantability": 1,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ]
+  }
+}

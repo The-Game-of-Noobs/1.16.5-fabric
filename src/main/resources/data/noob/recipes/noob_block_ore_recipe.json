@@ -1,0 +1,13 @@
+{
+  "group": "noob",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "noob:noob_block"
+    }
+  ],
+  "result": {
+    "item": "noob:noob_dust",
+    "count": 9
+  }
+}

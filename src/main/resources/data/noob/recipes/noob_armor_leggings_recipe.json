@@ -1,0 +1,36 @@
+{
+  "group": "noob",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "noob:noob_dust"
+    },
+    "1": {
+      "item": "noob:noob_dust"
+    },
+    "2": {
+      "item": "noob:noob_dust"
+    },
+    "3": {
+      "item": "noob:noob_dust"
+    },
+    "5": {
+      "item": "noob:noob_dust"
+    },
+    "6": {
+      "item": "noob:noob_dust"
+    },
+    "8": {
+      "item": "noob:noob_dust"
+    }
+  },
+  "result": {
+    "item": "noob:noob_armor_leggings",
+    "count": 1
+  }
+}

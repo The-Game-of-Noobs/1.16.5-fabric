@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "axe_mud",
+    "customModelName": "Normal",
+    "name": "Mud Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NoobTab"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 1.0,
+    "attackSpeed": 1.0,
+    "enchantability": 1,
+    "damageVsEntity": 0.1,
+    "usageCount": 10,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "MudAxeMobIsHitWithTool"
+    }
+  }
+}

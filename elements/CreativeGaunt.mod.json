@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Saliva"
+      },
+      {
+        "value": "CUSTOM:Saliva"
+      },
+      {
+        "value": "CUSTOM:Saliva"
+      },
+      {
+        "value": "CUSTOM:Saliva"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "CUSTOM:Saliva"
+      },
+      {
+        "value": "CUSTOM:Saliva"
+      },
+      {
+        "value": "CUSTOM:Saliva"
+      },
+      {
+        "value": "CUSTOM:Saliva"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CreativeGauntlet"
+    },
+    "name": "creative_gaunt",
+    "namespace": "mod"
+  }
+}

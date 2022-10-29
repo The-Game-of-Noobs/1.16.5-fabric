@@ -1,0 +1,26 @@
+{
+  "group": "noob",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "noob:noob_dust"
+    },
+    "2": {
+      "item": "noob:noob_dust"
+    },
+    "3": {
+      "item": "noob:noob_dust"
+    },
+    "5": {
+      "item": "noob:noob_dust"
+    }
+  },
+  "result": {
+    "item": "noob:noob_armor_boots",
+    "count": 1
+  }
+}
